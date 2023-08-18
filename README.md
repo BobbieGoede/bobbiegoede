@@ -1,4 +1,4 @@
-### Hi there 👋
+![bobbiegoede's Stats](https://github-readme-stats.vercel.app/api?username=bobbiegoede&theme=nord&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 
 <!--
 **BobbieGoede/bobbiegoede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
